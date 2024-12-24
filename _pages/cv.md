@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Computer Science, Bayero University Kano,  (in-view)
+* M.Sc Computer Science, Sharda University India, 2021
+* B.Sc Computer Science, Islamic Call College,    2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 - To date 
+  * Lecturer at Aminu Kano College of Islamic and Legal Studies, Kano.
+  * Duties includes: Lecturing, 
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2021: 
+  * Computer Officer at Abubakar Rimi Television, Kano. 
+  * Duties includes: Computer Maintainance and Troubleshooting.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Competent user of Microsoft packages including PowerPoint, Word, Excel, etc 
+* Able to program using Python, Java, HTML and PHP languages.
+* Database Management using MySQL and ORACLE. 
+
+Languages
+======
+* English 
+* Arabic
+* Hausa 
+
+Hobbies
+======
+* Playing Football 
+* Reading
+* Social Media 
 
 Publications
 ======
