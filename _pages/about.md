@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align: justify;">
- am a Computer Scientist currently pursuing a Ph.D. in Computer Science, driven by a profound passion for the transformative power of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). These fields represent not just cutting-edge technology but also powerful tools for addressing some of the most pressing challenges of our time.
+ I'm a Computer Scientist currently pursuing a Ph.D. in Computer Science, driven by a profound passion for the transformative power of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). These fields represent not just cutting-edge technology but also powerful tools for addressing some of the most pressing challenges of our time.
 </p>
 
 <p style="text-align: justify;">
