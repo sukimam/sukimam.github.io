@@ -1,3 +1,6 @@
+Access-Control-Allow-Origin: *
+
+
 {
 	"name": "Minimal Mistakes",
 	"icons": [
