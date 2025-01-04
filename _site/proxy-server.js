@@ -11,7 +11,7 @@ app.use(cors());
 app.get('/proxy/manifest', async (req, res) => {
     try {
         // Fetch the manifest.json from the external URL
-        const response = await fetch('https://github.com/sukimam.github.io/images/manifest.json');
+        const response = await fetch('https://sukimam.github.io/images/manifest.json');
         
         if (!response.ok) {
             return res.status(response.status).send(`Error fetching manifest: ${response.statusText}`);

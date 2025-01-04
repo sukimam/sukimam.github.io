@@ -6,7 +6,7 @@ app.use(cors());
 
 app.get('/proxy/manifest', async (req, res) => {
     const fetch = await import('node-fetch');
-    const response = await fetch.default('https://github.com/sukimam.github.io/images/manifest.json');
+    const response = await fetch.default('https://sukimam.github.io/images/manifest.json');
     const data = await response.text();
     res.setHeader('Content-Type', 'application/json');
     res.send(data);
